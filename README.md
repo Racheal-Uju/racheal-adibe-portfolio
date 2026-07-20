@@ -60,20 +60,7 @@ I use a variety of teaching techniques, including:
 ---
 
 # 📚 Sample Learning Materials
-
-This portfolio includes examples of the resources I use during lessons, such as:
-
-* Lesson plans
-* Vocabulary worksheets
-* Grammar guides
-* Reading passages
-* Conversation practice activities
-* Cultural notes
-* Presentation slides
-* Classroom activities
-
 ---
-
 # ⭐ Student Outcomes
 
 My students have successfully:
@@ -90,23 +77,11 @@ My students have successfully:
 
 # 💼 Portfolio Contents
 
-📂 Lesson Materials
-
-📂 Sample Worksheets
-
-📂 Presentation Slides
-
-📂 Teaching Resources
-
 📂 Student Testimonials
 
 📂 Certificates
 
 ---
-
-# 📷 Teaching Gallery
-
-This repository also contains sample lesson materials, classroom resources and teaching aids that demonstrate my teaching style and lesson structure.
 
 ---
 
@@ -120,9 +95,9 @@ I am available for:
 * Heritage language programmes
 * Cultural language workshops
 
-**LinkedIn:** *Add your LinkedIn profile link here*
+**LinkedIn:** *(https://www.linkedin.com/in/racheal-adibe)*
 
-**Email:** *Add your professional email address here*
+**Email:** *ujurac@gmail.com*
 
 ---
 
