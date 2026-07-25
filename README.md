@@ -58,8 +58,6 @@ I use a variety of teaching techniques, including:
 * Real-life communication practice
 
 ---
-
-# 📚 Sample Learning Materials
 ---
 # ⭐ Student Outcomes
 
